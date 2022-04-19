@@ -4,7 +4,7 @@
 - 💞️ I create and destroy containers for cup of coffee and pizzas
 - 📫 You can reachme on www.linkedin.com/in/prince-sarvaiya
 
-- Profile Visited ![Visitor Count](https://profile-counter.glitch.me/princesarvaiya/count.svg)
+- Number of visitors ![Visitor Count](https://profile-counter.glitch.me/princesarvaiya/count.svg)
 
 <!---
 princesarvaiya/princesarvaiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
