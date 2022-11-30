@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princesarvaiya
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently have skillsets on OpenShift, AWS, K8S, Terraform, Jenkins, Docker
+- 🌱 I’m currently have skillsets on OpenShift, AWS, K8S, Terraform, Jenkins, Docker, Virtualization, Prometheus-Grafana
 - 💞️ I create and destroy containers for cup of coffee and pizzas
 - 📫 You can reachme on www.linkedin.com/in/prince-sarvaiya
 
